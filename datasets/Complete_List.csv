@@ -1,0 +1,111 @@
+Card,1 Star (Common),2 star (Uncommon),3 star (Rare),4 star (Epic),HD Graphic,,Description,"Attribute 6
+Affinity",,OLD NAME,Number of Cards
+Archer Tower,,,,,TRUE,,Fast-firing archer that rains arrows upon your enemies' heads.,Sun,,Archer Tower,4
+Javelin Tower,,,,,TRUE,,Throws javelins at enemies that do great damage.,Moon,,Javelin Tower,4
+Longbow Tower,NN,NN,,,TRUE,,Remarkably long shooting range while sacrificing close combat abilities.,Cloud,,Longbow Tower,2
+Scout Tower,NN,,,,TRUE,,Focuses on one enemy and increases damage for every hit against that target.,Sun,,Scout Tower,3
+Venom Tower,NN,NN,,,TRUE,,Unable to strike enemies nearby but the ones further away are susceptible to his poison attacks.,Cloud,,Venom Tower,2
+Bolas Tower,,,,,TRUE,,Stuns enemies.,Moon,,Bolas Tower,4
+Holy Tower,,,,,TRUE,,Smites the Undead with divine light; 0.5x damage against all other enemies.,Moon,,Holy Tower,4
+Storm Tower,,,,,TRUE,,Fries multiple enemies with cascades of supercharged plasma.,Moon,,Storm Tower,4
+Lightning Tower,,,,,TRUE,,Zaps foes with lightning bolts that penetrate armor.,Cloud,,Lightning Tower,4
+Tech Tower,NN,NN,,,TRUE,,An electrical specialist with a far-reaching chain of lightning to zap an unlucky foe nearby.,Sun,,Greenzap Tower,2
+Snowball Tower,,,,,TRUE,,"Cheap and cheerful, their snowballs pack a wallop.",Cloud,,Snowball Tower,4
+Illuminator Tower,,,,,TRUE,,Reveals hidden units and blasts them with eldritch light.,Cloud,,Illuminator Tower,4
+Dart Tower,,,,,TRUE,,Throws magical darts at enemies that extract extra mana.,Cloud,,Dart Tower,4
+Sniper Tower,,,,,TRUE,,Long-range marksman whose shot is deadly but slow to reload.,Moon,,Sniper Tower,4
+Prism of the Sun,NN,,,,TRUE,,Burns the strongest enemy in range with a devastating beam of light.,Sun,,Prism of the Sun,3
+Moonlight Tower,NN,,,,TRUE,,"Shines a devastating beam of light to the strongest enemy in range, damaging close-by units as well.",Moon,,Moonlight Tower,3
+Crossbow Tower,NN,,,,TRUE,,Unleashes volleys of explosive bolts at your foes.,Moon,,Crossbow Tower,3
+Well of Souls,NN,,,,TRUE,,Grows in power as it swallows the souls of its victims.,Sun,,Well of Souls,3
+Aquarium Tower,NN,,,,TRUE,,Targets random enemies with high-impact blowfishes.,Cloud,,Aquarium Tower,3
+Volcano Tower,,,,,TRUE,,Spews balls of molten rock at random enemies.,Cloud,,Volcano Tower,4
+Gatling Tower,NN,,,,TRUE,,Riddle your enemies with explosive shells.,Sun,,Minigun Tower,3
+Poison Tower,,,,,TRUE,,A witch who throws flasks of toxic brew upon the enemy.,Sun,,Poison Tower,4
+Pirate Tower,,,,,TRUE,,Lobs bombs that deal area damage.,Cloud,,Pirate Tower,4
+Mortar Tower,,,,,TRUE,,Heavy artillery with a wide blast area.,Moon,,Mortar Tower,4
+Rocket Tower,NN,,,,TRUE,,Long range tower with explosive fireworks ammunition.,Cloud,,Rocket Tower,3
+Slowdown Tower,,,,,TRUE,,Slows enemy units to a crawl.,Sun,,Slowdown Tower,4
+Lazy Tower,,,,,TRUE,,Slows down groups of enemies.,Cloud,,Lazy Tower,4
+Mana Tower,NN,,,,TRUE,,Generates extra Mana to boost your battle power.,Neutral,,Mana Tower,3
+Necromancer Tower,NN,,,,TRUE,,Raises skeletons from killed enemies to fight for you.,Sun,,Necromancer Tower,3
+END-OF-Tower,,,,,,,,,,END-OF-Tower,100
+Egg of Mana,,,,,TRUE,,Conjure up Mana from thin air.,Neutral,,Egg of Mana,4
+Black Dragon,,,,,TRUE,,Scorch enemies with armor-penetrating dragon fire.,Sun,,Black Dragon,4
+Green Dragon,,,,,TRUE,,Summon a plague dragon that breathes poisonous dragon fire.,Moon,,Green Dragon,4
+Red Dragon,,,,,TRUE,,Scorch your enemies with a firebreathing Dragon that deals massive area damage.,Cloud,,Red Dragon,4
+Bear Trap,,,,,TRUE,,Snaps a single enemy in its jaws when stepped on.,Sun,,Bear Trap,4
+Thunderstorm,,,,,TRUE,,Call in a thunderstorm that rains bolts of lightning down on your enemies.,Cloud,,Thunderstorm,4
+Artillery,,,,,TRUE,,Fires a barrage of heavy artillery rounds at the enemy.,Moon,,Artillery,4
+Plague Ward,,,,,TRUE,,Plant a poison ward that infects any enemy passing by.,Cloud,,Plague Ward,4
+Lava Floor,NN,,,,TRUE,,Set the ground on fire and burn all enemies who are dumb enough to try to cross it.,Sun,,Lava Floor,3
+Spider Mine,,,,,TRUE,,Erupts in a cloud of poison when stepped on.,Sun,,Spider Mine,4
+Pumpkin Bomb,,,,,TRUE,,Explodes when enemies get too close.,Cloud,,Pumpkin Bomb,4
+Big Bomb,,,,,TRUE,,Plant a big bomb that lights its fuse when an enemy nears it.,Moon,,Big Bomb,4
+Bladestorm,,,,,TRUE,,Call down a deadly deluge of blades.,Sun,,Bladestorm,4
+Armageddon,NN,,,,TRUE,,Blanket the battlefield in a cleansing rain of destruction.,Moon,,Armageddon,3
+Meteor Strike,,,,,TRUE,,Slam a meteor into a pile of enemies.,Cloud,,Meteor Strike,4
+Space Beam,NN,,,,TRUE,,Does major damage against the strongest enemies on the battlefield.,Cloud,,Death Ray,3
+Sky Fist,,,,,TRUE,,Swat enemies like they were flies with a mighty fist from the skies.,Moon,,Sky Fist,4
+Clarion Call,,,,,TRUE,,Summon a trio of troops to fight at your side.,Cloud,,Clarion Call,4
+Warcry,NN,,,,TRUE,,Summon 7 warriors to fight at your side.,Moon,,Warcry,3
+Elven Rangers,,,,,TRUE,,Deploy a squad to deal with any threat.,Sun,,Elven Rangers,4
+Thunder Moose,,,,,TRUE,,Summon a surly Thunder Moose to fight at your side.,Sun,,Thunder Moose,4
+Lightning Goose,,,,,TRUE,,Summon a Lightning Goose to fight at your side.,Moon,,Lightning Goose,4
+Totem of Might,,,,,TRUE,,Plant a tribal totem that makes nearby Heroes hit harder.,Sun,,Totem of Might,4
+Freeze,,,,,TRUE,,Snap-freeze enemies in a giant block of ice.,Cloud,,Freeze,4
+Guardian of Time,,,,,TRUE,,Raise a stone guardian that teleports enemies backward.,Neutral,,Guardian of Time,4
+Frost Storm,,,,,TRUE,,Freezes all enemies for a short while.,Neutral,,Frost Storm,4
+Glyph of Fatigue,,,,,TRUE,,Slows down enemies who set foot in its circle.,Neutral,,Glyph of Fatigue,4
+Shrink Curse,NN,,,,TRUE,,Downsize your enemies to have them receive more damage.,Neutral,,Minimize,3
+Electric Cascade,NN,,,,TRUE,,A vicious stream of electricity that jumps from foe to foe.,Moon,,ChainLightning,3
+Wrath of Zeus,NN,,,,TRUE,,Darken the entire battlefield with the fury of the thunder god to strike multiple enemies.,Cloud,,LightningStorm,3
+END-OF-Spell,,,,,,,,#N/A,,END-OF-Spell,113
+Centurion,,,,,TRUE,,A fearless knight encased in armor from head to toe.,Sun,,Centurion,4
+Dundee,,,,,TRUE,,A nimble crocodile-hunter who shrugs off poison.,Cloud,,Knox,4
+Oni,,,,,TRUE,,A menacing samurai who's fearsome in a melee.,Moon,,Oni,4
+Blink,,,,,TRUE,,A nimble ninja who can slip across the battlefield in the blink of an eye.,Moon,,Blink,4
+Knuckle,,,,,TRUE,,A thrilla and a chilla - this big bruiser lets his icy fists do the talking.,Sun,,Knuckle,4
+Umbra,,,,,TRUE,,Wields venomous blades and is highly resistant to Poison.,Cloud,,Umbra,4
+Sapphira,,,,,TRUE,,Fragile in close combat but a deadly shot with a bow.,Moon,,Sapphira,4
+Wolfric,,,,,TRUE,,A mystic shaman who mauls his enemies with Magical spirit animals.,Sun,,Wolfric,4
+Ace,,,,,TRUE,,A dastardly card-sharp who steals Mana from her victims.,Cloud,,Ace,4
+Oracle,,,,,TRUE,,A powerful seer who conjures spirits from beyond and reveals what is hidden.,Cloud,,Oracle,4
+Cindara,,,,,TRUE,,A wicked fireball throwing witch.,Moon,,Cindara,4
+Valorius,,,,,TRUE,,A mighty paladin who boosts the damage of nearby allies.,Sun,,Valorius,4
+Behemoth,,,,,TRUE,,A lumbering beast who can shake off even the most grievous wounds.,Moon,,Behemoth,4
+Shelly,,,,,TRUE,,A crack shot with a rifle - she's the one granny you don't wanna cross.,Sun,,Shelly,4
+Haunt,NN,,,,TRUE,,A relentless undead warrior who's highly resistant to Magic.,Sun,,Haunt,3
+Drake,NN,,,,TRUE,,Haughty warrior-prince of the draconic Order of the Spear.,Sun,,Drake,3
+Furnace,NN,,,,TRUE,,Born in the magma cauldrons of the deep and filled with fiery vengeance.,Moon,,Furnace,3
+Ruby,NN,,,,TRUE,,Wields a mighty hammer to cause damage even to the nearby enemies of the initial target.,Sun,,Ruby,3
+iRon,NN,,,,TRUE,,A robotic rust-bucket who's born to roll. Packs a mighty mortar.,Cloud,,iRon,3
+Frostbeard,NN,,,,TRUE,,An ancient giant of tremendous power.,Cloud,,Frostbeard,3
+END-OF-Hero,,,,,,,,#N/A,,END-OF-Hero,74
+Steel Sword,,,,,TRUE,,"A trusty infantry sword, quick and stabby.",Neutral,,Basic sword,4
+Salamander's Sting,,,,,TRUE,,A white-hot magical blade.,Neutral,,serpents sting,4
+Heroic halberd,,,,,TRUE,,A heavy-hitting halberd with a ponderous swing.,Neutral,,Heroic halberd,4
+Staff of Dawn,,,,,TRUE,,A staff that smites enemies with bursts of magical light.,Neutral,,Hammer of light,4
+Crimson Talwar,,,,,TRUE,,A towering scarlet scimitar forged in the cold fires of the Vermilion Foundry.,Neutral,,Crimson Talwar,4
+Crystalline,,,,,TRUE,,A sword carved from a shard of crystal that crackles with magic energy.,Neutral,,Cristalline,4
+Fangblade,,,,,TRUE,,A vicious cutlass that drips with venom.,Neutral,,Venonfang,4
+Iron Cap,,,,,TRUE,,Sturdy metal helmet that keeps the wearer's skull intact.,Neutral,,Iron Cap,4
+Helm of the Valkyrie,,,,,TRUE,,Winged helmet that protects the wearer from magical attacks.,Neutral,,Valkyrie Helmet (Helm of the Valkyrie),4
+Vermilion Helm,,,,,TRUE,,Legendary crested helm that deflects both magical and physical damage.,Neutral,,Vermilion Helm,4
+Helm of Many Eyes,,,,,TRUE,,A sinister chapeau that lets its wearer see the invisible.,Neutral,,Helm of Many Eyes,4
+Wooden Shield,,,,NN,TRUE,,A stout wooden shield that fends off physical blows.,Neutral,,Wooden Shield,3
+Magic Buckler,,,,NN,TRUE,,An enchanted shield that deflects magic attacks.,Neutral,,Magic Buckler,3
+Valkyrie Shield,,,,,TRUE,,A heavy shield that trades speed for protection.,Neutral,,Valkyrie Shield,4
+Scarlet Shield,,,,,TRUE,,Legendary shield from the ancient forges of the Vermilion Foundry.,Neutral,,Scarlet Shield,4
+Leather Cuirass,,,,,TRUE,,Tough studded leather armor that protects the wearer from physical blows.,Neutral,,Leather Cuirass,4
+Dragon Mail,,,,,TRUE,,Made from dragon scales that deflect magic and physical damage.,Neutral,,Dragon Mail,4
+Vermilion Plate,,,,,TRUE,,Legendary suit of antique armor that fortifies the wearer against poison.,Neutral,,Vermilion Plate,4
+Steel-Toe Boots,,,,,TRUE,,"Sturdy boots with a steel-capped toe, perfect for kicking butt.",Neutral,,Steel-Toe Boots,4
+Slippers of Swiftness,,,,,TRUE,,Red-hot booties that let the wearer run like the wind.,Neutral,,Slippers of Swiftness,4
+Boots of the March,,,,,TRUE,,Boots that quicken the wearer's pace and boost their health.,Neutral,,Boots of the March,4
+Boots of Quantum Stride,NN,,,,TRUE,,Pan-dimensional footwear that warps you across the battlefield in style.,Neutral,,Boots of Quantum Stride,3
+Talisman of Life,,,,NN,TRUE,,Powerful totem that fortifies the wearer's life force.,Neutral,,Talisman of Life,3
+Ring of Regeneration,NN,,,,TRUE,,A ring of power that gradually heals the wearer.,Neutral,,Ring of Regeneration,3
+Ring of Might,NN,,,,TRUE,,A potent ring that strengthens the wearer's sword arm.,Neutral,,Ring of Might,3
+Girdle of Pain,NN,,,,TRUE,,A treacherous belt that generates Mana by feeding on its wearer.,Neutral,,Girdle of Pain,3
+END-OF-Equipment,,,,,,,,#N/A,,END-OF-Equipment,97

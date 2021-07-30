@@ -1,0 +1,10 @@
+metadatas/metadata_cdh_equipments/*
+metadatas/metadata_cdh_spell/*
+metadatas/metadata_cdh_tower/*
+metadatas/metadata_cdh_hero/*
+
+metadata_cdh_equipments_complete.json
+metadata_cdh_hero_complete.json
+metadata_cdh_spell_complete.json
+metadata_cdh_tower_complete.json
+

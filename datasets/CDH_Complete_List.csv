@@ -1,0 +1,106 @@
+Card,Description,Attribute 6 Affinity,OLD NAME
+Archer Tower,Fast-firing archer that rains arrows upon your enemies' heads.,Sun,Archer Tower
+Javelin Tower,Throws javelins at enemies that do great damage.,Moon,Javelin Tower
+Longbow Tower,Remarkably long shooting range while sacrificing close combat abilities.,Cloud,Longbow Tower
+Scout Tower,Focuses on one enemy and increases damage for every hit against that target.,Sun,Scout Tower
+Venom Tower,Unable to strike enemies nearby but the ones further away are susceptible to his poison attacks.,Cloud,Venom Tower
+Bolas Tower,Stuns enemies.,Moon,Bolas Tower
+Holy Tower,Smites the Undead with divine light; 0.5x damage against all other enemies.,Moon,Holy Tower
+Storm Tower,Fries multiple enemies with cascades of supercharged plasma.,Moon,Storm Tower
+Lightning Tower,Zaps foes with lightning bolts that penetrate armor.,Cloud,Lightning Tower
+Tech Tower,An electrical specialist with a far-reaching chain of lightning to zap an unlucky foe nearby.,Sun,Greenzap Tower
+Snowball Tower,"Cheap and cheerful, their snowballs pack a wallop.",Cloud,Snowball Tower
+Illuminator Tower,Reveals hidden units and blasts them with eldritch light.,Cloud,Illuminator Tower
+Dart Tower,Throws magical darts at enemies that extract extra mana.,Cloud,Dart Tower
+Sniper Tower,Long-range marksman whose shot is deadly but slow to reload.,Moon,Sniper Tower
+Prism of the Sun,Burns the strongest enemy in range with a devastating beam of light.,Sun,Prism of the Sun
+Moonlight Tower,"Shines a devastating beam of light to the strongest enemy in range, damaging close-by units as well.",Moon,Moonlight Tower
+Crossbow Tower,Unleashes volleys of explosive bolts at your foes.,Moon,Crossbow Tower
+Well of Souls,Grows in power as it swallows the souls of its victims.,Sun,Well of Souls
+Aquarium Tower,Targets random enemies with high-impact blowfishes.,Cloud,Aquarium Tower
+Volcano Tower,Spews balls of molten rock at random enemies.,Cloud,Volcano Tower
+Gatling Tower,Riddle your enemies with explosive shells.,Sun,Minigun Tower
+Poison Tower,A witch who throws flasks of toxic brew upon the enemy.,Sun,Poison Tower
+Pirate Tower,Lobs bombs that deal area damage.,Cloud,Pirate Tower
+Mortar Tower,Heavy artillery with a wide blast area.,Moon,Mortar Tower
+Rocket Tower,Long range tower with explosive fireworks ammunition.,Cloud,Rocket Tower
+Slowdown Tower,Slows enemy units to a crawl.,Sun,Slowdown Tower
+Lazy Tower,Slows down groups of enemies.,Cloud,Lazy Tower
+Mana Tower,Generates extra Mana to boost your battle power.,Neutral,Mana Tower
+Necromancer Tower,Raises skeletons from killed enemies to fight for you.,Sun,Necromancer Tower
+Egg of Mana,Conjure up Mana from thin air.,Neutral,Egg of Mana
+Black Dragon,Scorch enemies with armor-penetrating dragon fire.,Sun,Black Dragon
+Green Dragon,Summon a plague dragon that breathes poisonous dragon fire.,Moon,Green Dragon
+Red Dragon,Scorch your enemies with a firebreathing Dragon that deals massive area damage.,Cloud,Red Dragon
+Bear Trap,Snaps a single enemy in its jaws when stepped on.,Sun,Bear Trap
+Thunderstorm,Call in a thunderstorm that rains bolts of lightning down on your enemies.,Cloud,Thunderstorm
+Artillery,Fires a barrage of heavy artillery rounds at the enemy.,Moon,Artillery
+Plague Ward,Plant a poison ward that infects any enemy passing by.,Cloud,Plague Ward
+Lava Floor,Set the ground on fire and burn all enemies who are dumb enough to try to cross it.,Sun,Lava Floor
+Spider Mine,Erupts in a cloud of poison when stepped on.,Sun,Spider Mine
+Pumpkin Bomb,Explodes when enemies get too close.,Cloud,Pumpkin Bomb
+Big Bomb,Plant a big bomb that lights its fuse when an enemy nears it.,Moon,Big Bomb
+Bladestorm,Call down a deadly deluge of blades.,Sun,Bladestorm
+Armageddon,Blanket the battlefield in a cleansing rain of destruction.,Moon,Armageddon
+Meteor Strike,Slam a meteor into a pile of enemies.,Cloud,Meteor Strike
+Space Beam,Does major damage against the strongest enemies on the battlefield.,Cloud,Death Ray
+Sky Fist,Swat enemies like they were flies with a mighty fist from the skies.,Moon,Sky Fist
+Clarion Call,Summon a trio of troops to fight at your side.,Cloud,Clarion Call
+Warcry,Summon 7 warriors to fight at your side.,Moon,Warcry
+Elven Rangers,Deploy a squad to deal with any threat.,Sun,Elven Rangers
+Thunder Moose,Summon a surly Thunder Moose to fight at your side.,Sun,Thunder Moose
+Lightning Goose,Summon a Lightning Goose to fight at your side.,Moon,Lightning Goose
+Totem of Might,Plant a tribal totem that makes nearby Heroes hit harder.,Sun,Totem of Might
+Freeze,Snap-freeze enemies in a giant block of ice.,Cloud,Freeze
+Guardian of Time,Raise a stone guardian that teleports enemies backward.,Neutral,Guardian of Time
+Frost Storm,Freezes all enemies for a short while.,Neutral,Frost Storm
+Glyph of Fatigue,Slows down enemies who set foot in its circle.,Neutral,Glyph of Fatigue
+Shrink Curse,Downsize your enemies to have them receive more damage.,Neutral,Minimize
+Electric Cascade,A vicious stream of electricity that jumps from foe to foe.,Moon,ChainLightning
+Wrath of Zeus,Darken the entire battlefield with the fury of the thunder god to strike multiple enemies.,Cloud,LightningStorm
+Centurion,A fearless knight encased in armor from head to toe.,Sun,Centurion
+Dundee,A nimble crocodile-hunter who shrugs off poison.,Cloud,Knox
+Oni,A menacing samurai who's fearsome in a melee.,Moon,Oni
+Blink,A nimble ninja who can slip across the battlefield in the blink of an eye.,Moon,Blink
+Knuckle,A thrilla and a chilla - this big bruiser lets his icy fists do the talking.,Sun,Knuckle
+Umbra,Wields venomous blades and is highly resistant to Poison.,Cloud,Umbra
+Sapphira,Fragile in close combat but a deadly shot with a bow.,Moon,Sapphira
+Wolfric,A mystic shaman who mauls his enemies with Magical spirit animals.,Sun,Wolfric
+Ace,A dastardly card-sharp who steals Mana from her victims.,Cloud,Ace
+Oracle,A powerful seer who conjures spirits from beyond and reveals what is hidden.,Cloud,Oracle
+Cindara,A wicked fireball throwing witch.,Moon,Cindara
+Valorius,A mighty paladin who boosts the damage of nearby allies.,Sun,Valorius
+Behemoth,A lumbering beast who can shake off even the most grievous wounds.,Moon,Behemoth
+Shelly,A crack shot with a rifle - she's the one granny you don't wanna cross.,Sun,Shelly
+Haunt,A relentless undead warrior who's highly resistant to Magic.,Sun,Haunt
+Drake,Haughty warrior-prince of the draconic Order of the Spear.,Sun,Drake
+Furnace,Born in the magma cauldrons of the deep and filled with fiery vengeance.,Moon,Furnace
+Ruby,Wields a mighty hammer to cause damage even to the nearby enemies of the initial target.,Sun,Ruby
+iRon,A robotic rust-bucket who's born to roll. Packs a mighty mortar.,Cloud,iRon
+Frostbeard,An ancient giant of tremendous power.,Cloud,Frostbeard
+Steel Sword,"A trusty infantry sword, quick and stabby.",Neutral,Basic sword
+Salamander's Sting,A white-hot magical blade.,Neutral,serpents sting
+Heroic halberd,A heavy-hitting halberd with a ponderous swing.,Neutral,Heroic halberd
+Staff of Dawn,A staff that smites enemies with bursts of magical light.,Neutral,Hammer of light
+Crimson Talwar,A towering scarlet scimitar forged in the cold fires of the Vermilion Foundry.,Neutral,Crimson Talwar
+Crystalline,A sword carved from a shard of crystal that crackles with magic energy.,Neutral,Cristalline
+Fangblade,A vicious cutlass that drips with venom.,Neutral,Venonfang
+Iron Cap,Sturdy metal helmet that keeps the wearer's skull intact.,Neutral,Iron Cap
+Helm of the Valkyrie,Winged helmet that protects the wearer from magical attacks.,Neutral,Valkyrie Helmet (Helm of the Valkyrie)
+Vermilion Helm,Legendary crested helm that deflects both magical and physical damage.,Neutral,Vermilion Helm
+Helm of Many Eyes,A sinister chapeau that lets its wearer see the invisible.,Neutral,Helm of Many Eyes
+Wooden Shield,A stout wooden shield that fends off physical blows.,Neutral,Wooden Shield
+Magic Buckler,An enchanted shield that deflects magic attacks.,Neutral,Magic Buckler
+Valkyrie Shield,A heavy shield that trades speed for protection.,Neutral,Valkyrie Shield
+Scarlet Shield,Legendary shield from the ancient forges of the Vermilion Foundry.,Neutral,Scarlet Shield
+Leather Cuirass,Tough studded leather armor that protects the wearer from physical blows.,Neutral,Leather Cuirass
+Dragon Mail,Made from dragon scales that deflect magic and physical damage.,Neutral,Dragon Mail
+Vermilion Plate,Legendary suit of antique armor that fortifies the wearer against poison.,Neutral,Vermilion Plate
+Steel-Toe Boots,"Sturdy boots with a steel-capped toe, perfect for kicking butt.",Neutral,Steel-Toe Boots
+Slippers of Swiftness,Red-hot booties that let the wearer run like the wind.,Neutral,Slippers of Swiftness
+Boots of the March,Boots that quicken the wearer's pace and boost their health.,Neutral,Boots of the March
+Boots of Quantum Stride,Pan-dimensional footwear that warps you across the battlefield in style.,Neutral,Boots of Quantum Stride
+Talisman of Life,Powerful totem that fortifies the wearer's life force.,Neutral,Talisman of Life
+Ring of Regeneration,A ring of power that gradually heals the wearer.,Neutral,Ring of Regeneration
+Ring of Might,A potent ring that strengthens the wearer's sword arm.,Neutral,Ring of Might
+Girdle of Pain,A treacherous belt that generates Mana by feeding on its wearer.,Neutral,Girdle of Pain
